@@ -1,5 +1,7 @@
 *The use of the design patterns is an art, no rules when to use what*
 
+// The page is under develoment, please do not use as reference yet
+
 1. [Creational Patterns](#creational-patterns)
    - [Singleton](#singleton)
    - [Builder](#builder)
